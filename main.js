@@ -17,7 +17,7 @@ addPassengerButton.append('Ride Wagon')
 
 let huntButton = document.createElement('button')
 huntButton.className = 'hunt'
-huntButton.append('Shoot')
+huntButton.append('Hunt')
 
 let consumeButton = document.createElement('button')
 consumeButton.className = 'consume'
@@ -25,7 +25,7 @@ consumeButton.append('Eat')
 
 let loadButton = document.createElement('button')
 loadButton.className = 'onboard'
-loadButton.append('Load')
+loadButton.append('Wagon Load')
 
 
 
